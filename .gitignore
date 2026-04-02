@@ -1,0 +1,4 @@
+.venv
+*.xlsx
+sbd_list.txt
+failed_ids.txt
